@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="WebServers">
-    <groups>
-      <group>
-        <name>lanye</name>
-      </group>
-    </groups>
+    <option name="servers">
+      <webServer id="a75d07f9-6ceb-465a-89a3-f58fe06615ee" name="lanye" url="http://localhost">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
   </component>
 </project>

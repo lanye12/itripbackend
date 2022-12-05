@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="lanye" uploadOnCheckinGroup="lanye" remoteFilesAllowedToDisappearOnAutoupload="false" />
+  <component name="PublishConfigData" serverName="lanye" uploadOnCheckin="001c38cf-4509-4ed7-ba9f-35f8473347d3" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="lanye">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/itriptrade" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="lanye" />
+  </component>
 </project>
