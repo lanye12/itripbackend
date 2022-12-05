@@ -1,0 +1,7 @@
+127.0.0.1 - - [27/Nov/2022:15:59:45 +0800] "POST /auth/api/registerbyphone HTTP/1.0" 500 7804 http-bio-8084-exec-1 2370
+127.0.0.1 - - [27/Nov/2022:16:07:54 +0800] "GET /auth HTTP/1.1" 302 - http-bio-8084-exec-1 0
+127.0.0.1 - - [27/Nov/2022:16:07:54 +0800] "GET /auth/ HTTP/1.1" 200 57 http-bio-8084-exec-2 44
+127.0.0.1 - - [27/Nov/2022:16:07:54 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8084-exec-3 0
+127.0.0.1 - - [27/Nov/2022:16:08:16 +0800] "GET /auth/api/dologin?name=1044732267@qq.com&password=123456 HTTP/1.1" 500 4132 http-bio-8084-exec-6 270
+127.0.0.1 - - [27/Nov/2022:16:09:22 +0800] "GET /auth/api/dologin?name=15033167075&password=123456 HTTP/1.1" 200 190 http-bio-8084-exec-7 342
+127.0.0.1 - - [27/Nov/2022:16:09:59 +0800] "POST /auth/api/registerbyphone HTTP/1.0" 200 67 http-bio-8084-exec-9 1224
